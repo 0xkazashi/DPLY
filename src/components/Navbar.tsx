@@ -45,9 +45,21 @@ const Navbar: FC = () => {
 
         {/* Icons + CTA */}
         <div className="flex items-center gap-4">
-          <TbSend className="text-white text-xl cursor-pointer hover:scale-110 transition hover:text-gray-300" />
-          <FaTwitter className="text-white text-xl cursor-pointer hover:scale-110 transition hover:text-gray-300" />
+<a
+  href="https://your-link-here.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <TbSend className="text-white text-xl cursor-pointer hover:scale-110 transition hover:text-gray-300" />
+</a>
 
+<a
+  href="https://twitter.com/yourusername"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaTwitter className="text-white text-xl cursor-pointer hover:scale-110 transition hover:text-gray-300" />
+</a>
           <button
             className="hidden sm:block ml-2 px-6 md:px-8 py-2.5 md:py-3.5 rounded-full font-semibold 
             bg-white text-black 
