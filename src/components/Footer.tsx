@@ -61,21 +61,21 @@ const Footer = () => {
           <h3 className="text-white font-semibold mb-4">Connect</h3>
           <div className="flex space-x-4">
             <a
-              href="https://twitter.com"
+              href="https://x.com/dploydotfun"
               target="_blank"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 text-white transition"
             >
               <Twitter className="w-5 h-5" />
             </a>
             <a
-              href="https://telegram.com"
+              href="https://t.me/dploydotfun"
               target="_blank"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 text-white transition"
             >
               <FaTelegram className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/dploydotfun"
               target="_blank"
               className="p-2 rounded-full bg-white/10 hover:bg-white/20 text-white transition"
             >
