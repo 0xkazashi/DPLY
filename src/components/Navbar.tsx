@@ -22,7 +22,7 @@ const Navbar: FC = () => {
         <Link href="/" className="flex items-center gap-3">
           <div className="relative h-8 w-8 md:h-9 md:w-9">
             <Image
-              src="/logo.jfif"
+              src="/logo.jpg"
               alt="Dploy Logo"
               fill
               className="object-contain"
