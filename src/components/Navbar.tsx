@@ -46,7 +46,7 @@ const Navbar: FC = () => {
         {/* Icons + CTA */}
         <div className="flex items-center gap-4">
 <a
-  href="https://your-link-here.com"
+  href="https://t.me/dploydotfun"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -54,7 +54,7 @@ const Navbar: FC = () => {
 </a>
 
 <a
-  href="https://twitter.com/yourusername"
+  href="https://twitter.com/dploydotfun"
   target="_blank"
   rel="noopener noreferrer"
 >
