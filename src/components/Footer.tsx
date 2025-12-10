@@ -87,7 +87,7 @@ const Footer = () => {
 
       {/* Bottom strip */}
       <div className="border-t border-green-900/30 text-center py-4 text-xs text-gray-500">
-        © {new Date().getFullYear()} Deploy. All rights reserved.
+        © {new Date().getFullYear()} Dploy. All rights reserved.
       </div>
     </footer>
   );
